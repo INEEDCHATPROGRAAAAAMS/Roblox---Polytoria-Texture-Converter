@@ -1,5 +1,5 @@
 # Roblox -> Polytoria Texture Converter
-A basic program that allows for roblox classic clothing textures to easily be converted to the Polytopia format and sizing.
+A basic program that allows for roblox classic clothing textures to easily be converted to the Polytoria format and sizing.
 
 HOW TO USE:
 1. Download converter.exe from the releases tab
